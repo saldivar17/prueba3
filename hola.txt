@@ -4,3 +4,5 @@ este es un mensaje de prueba
 mi nombre es Alexander Saldivar Quispe
 
 El dia de ayer la sra. Nancy trajo un wawatanta bien grande con el nombre de ministerio de trabajo. nos juntamos todos los trabajadores para ayer una costumbre y una dinamica muy divertida.
+
+quinta linea de texto plano en el archivo hola.txt
