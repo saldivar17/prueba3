@@ -1,4 +1,4 @@
-Hola peru soy de abancay (master)
+Hola peru
 modificando la segunda linea con texto plano con el branch prueba
 este es un mensaje desde la rama <prueba>
-modificando la tercera linea con el branch master
+modificando la cuarta linea (master)
